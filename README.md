@@ -19,9 +19,9 @@ Focused on:
 
 ---
 
-## 🔭 Current Project — SKYNET
+## 🔭 Current Project — AT-D1
 
-Autonomous + user-commandable desk/home robot.
+Autonomous + user-commandable desk robot.
 
 An experimental Physical AI system combining:
 - Raspberry Pi
