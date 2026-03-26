@@ -1,21 +1,17 @@
 <h1 align="center">Sam</h1>
 <p align="center">
-Backend Engineer • AI-Focused Systems Builder
+Backend Engineer • Node.js & Laravel • AI-Focused Systems
 </p>
 
 ---
 
 ## About Me
 
-Backend engineer with strong production experience in Laravel, currently expanding into Python-based AI systems and autonomous robotics.
+Backend engineer building scalable, production-grade systems with strong experience in Laravel and Node.js.
 
-I build scalable backend architectures and experiment with AI-driven systems — from APIs to real-world physical intelligence.
+Focused on designing reliable backend architectures, clean API layers, and efficient data flows for real-world applications.
 
-Focused on:
-- Backend system design
-- AI/ML integration
-- Autonomous agents
-- Physical AI experimentation
+I integrate AI capabilities into backend systems and experiment with Physical AI and embedded systems — extending software intelligence beyond traditional applications.
 
 ---
 
@@ -30,41 +26,62 @@ An experimental Physical AI system combining:
 - Computer vision
 - AI-driven decision logic
 
-Designed to operate independently while responding to user commands.  
-Early-stage prototype.
+Built to operate autonomously while remaining controllable via user commands.
+
+Focus:
+Bridging backend systems with real-world intelligent behavior.
 
 ---
 
 ## Core Strengths
 
-- Laravel (production backend systems)
-- REST API architecture
-- Python (FastAPI)
-- AI system integration
-- MySQL / PostgreSQL
-- System design fundamentals
+- Backend system design & architecture
+- Node.js & Laravel (production systems)
+- REST API design & scalable data flow
+- MySQL / PostgreSQL / MongoDB
+- Writing maintainable, production-ready systems
 
 ---
 
-## Currently Exploring
+## Experience Highlights
 
-- Advanced Python for AI systems
-- Node.js ecosystem
-- Autonomous robotics architecture
-- Real-time AI pipelines
+- Built and maintained production backend systems using Laravel
+- Developed API-driven applications with structured data handling
+- Worked with relational and NoSQL databases in real-world scenarios
+
+---
+
+## AI & Systems Work
+
+- Integrating AI into backend workflows
+- Python for AI-driven system logic
+- OpenCV for real-world data processing
+- Experimenting with autonomous system behavior
+
+---
+
+## Interests & Exploration
+
+- Physical AI systems
+- Robotics architecture
+- Embedded systems (ESP32, Raspberry Pi)
+- Real-time intelligent systems
 
 ---
 
 ## Tech Stack
 
 **Backend**  
-Laravel • FastAPI • Node.js • MySQL • PostgreSQL • Redis  
+Node.js • Laravel • FastAPI • MySQL • PostgreSQL • MongoDB • Redis  
 
 **AI / ML**  
 PyTorch • TensorFlow • scikit-learn • OpenCV  
 
 **Frontend**  
 Next.js • React  
+
+**Embedded / Hardware**  
+ESP32 • Raspberry Pi  
 
 **DevOps / Tools**  
 Linux • Git • Docker • Jenkins  
